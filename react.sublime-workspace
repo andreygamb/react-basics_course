@@ -1,0 +1,891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gre",
+				"greeting"
+			],
+			[
+				"tal",
+				"ta-l\ttext-align: left;"
+			],
+			[
+				"bgzc",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"s",
+				"someObj"
+			],
+			[
+				"container",
+				"container__item"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"t",
+				"t\ttop"
+			],
+			[
+				"field",
+				"field"
+			],
+			[
+				"inli",
+				"inline-block\t(index.jade)"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"m",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 526,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.jsx",
+			"settings":
+			{
+				"buffer_size": 2889,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Header.jsx",
+			"settings":
+			{
+				"buffer_size": 384,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Todo.jsx",
+			"settings":
+			{
+				"buffer_size": 2374,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Checkbox.jsx",
+			"settings":
+			{
+				"buffer_size": 409,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/Button.jsx",
+			"settings":
+			{
+				"buffer_size": 490,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app.css",
+			"settings":
+			{
+				"buffer_size": 3667,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"scope",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 470.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/zaynu/AppData/Local/Temp/scp05544/domains/zaynulin.ru/zan/index.html",
+		"/C/Users/zaynu/Desktop/Projects/react-basics-last/README.md",
+		"/C/Users/zaynu/Desktop/Projects/react-basics-last/package.json",
+		"/C/Users/zaynu/Desktop/Projects/react-basics-last/webpack.config.js",
+		"/C/Users/zaynu/Desktop/Projects/react-basics/src/todos.js",
+		"/C/Users/zaynu/Desktop/Projects/react-basics/src/components/todo.jsx",
+		"/C/Users/zaynu/AppData/Roaming/Sublime Text 3/Packages/ScopeHunter/scope_hunter.sublime-settings",
+		"/C/Users/zaynu/AppData/Roaming/Sublime Text 3/Packages/User/reg_replace.sublime-settings",
+		"/C/Users/zaynu/Desktop/Projects/react-basics/src/App.jsx",
+		"/C/Users/zaynu/Desktop/Projects/react-basics/webpack.config.js",
+		"/C/Users/zaynu/Desktop/Projects/Skibl/project/css/style.css",
+		"/C/Users/zaynu/Desktop/Projects/Skibl/project/js/main.min.js",
+		"/C/Users/zaynu/Desktop/Projects/Skibl/project/application.html",
+		"/C/Users/zaynu/Desktop/Projects/Skibl/project/create-project.html",
+		"/C/Users/zaynu/Desktop/Projects/Ilya/project/app/sass/_media.sass",
+		"/C/Users/zaynu/Desktop/Projects/Ilya/project/app/sass/main.sass",
+		"/C/Users/zaynu/Desktop/Projects/Ilya/project/app/header.sass",
+		"/C/Users/zaynu/Desktop/Projects/Ilya/project/app/sass/_base.sass",
+		"/C/Users/zaynu/Desktop/Projects/Ilya/project/app/js/common.js",
+		"/C/Users/zaynu/Desktop/Projects/Ilya/project/app/index.html",
+		"/C/Users/zaynu/Desktop/Projects/Ilya/project/dist/index.html",
+		"/C/Users/zaynu/Desktop/Projects/Maks/workspace/psoridel-spacer-4/page1Success.php",
+		"/C/Users/zaynu/Desktop/Projects/Maks/workspace/yours-story.ru/naftalan1/index.html",
+		"/C/Users/zaynu/Desktop/Projects/opener/app/js/common.js",
+		"/C/Users/zaynu/Desktop/Projects/Alexsey Melnikov/potolki-home.ru/index.html",
+		"/C/Users/zaynu/Desktop/Projects/Alexsey Melnikov/potolki-home.ru/scripts/wwb10.min.js",
+		"/C/Users/zaynu/Desktop/Projects/Alexsey Melnikov/potolki-home.ru/scripts/utm_parameters.js",
+		"/C/Users/zaynu/Desktop/Projects/Alexsey Melnikov/potolki-home.ru/styles/index.css",
+		"/C/Users/zaynu/Desktop/Projects/BlackSwan/video/app/sass/_media.sass",
+		"/C/Users/zaynu/Desktop/Projects/BlackSwan/video/app/sass/main.sass",
+		"/C/Users/zaynu/Desktop/Projects/BlackSwan/video/app/header.sass",
+		"/C/Users/zaynu/Desktop/Projects/BlackSwan/video/app/sass/_base.sass",
+		"/C/Users/zaynu/Desktop/Projects/BlackSwan/video/app/js/common.js",
+		"/C/Users/zaynu/Desktop/Projects/BlackSwan/video/app/index.html",
+		"/C/Users/zaynu/Desktop/Projects/BlackSwan/video/app/mail.php",
+		"/C/Users/User/Desktop/Projects/template(jade+stylus)/gulpfile.js",
+		"/C/Users/User/Desktop/Projects/BlackSwan/video/dist/index.html",
+		"/C/Users/User/Desktop/Projects/BlackSwan/video/app/index.html",
+		"/C/Users/User/Desktop/Projects/BlackSwan/video/dist/index.php",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/closed-catalog.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/sites/all/themes/shop/css/unimagazin_s1_components_bitrix_menu_x_top_catalog_style.css",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/sites/all/themes/shop/css/unimagazin_s1_new.css",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/sites/all/themes/shop/js/shop.js",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-spacer-1/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-spacer-2/config.json",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-spacer-1/config.json",
+		"/C/Users/User/Desktop/Projects/Maks/template/spacer/config.json",
+		"/C/Users/User/Desktop/Projects/Maks/template/spacer_config/Прокладка с детектом города.json",
+		"/C/Users/User/Desktop/Projects/Maks/example/spacer/config.json",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1-1/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1-3/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/SPACER.txt",
+		"/C/Users/User/Desktop/Projects/Maks/LANDING.txt",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1-2/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-1/static/css/style.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-spacer-1/static/css/index.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-spacer-2/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-1/static/css/privacy.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-spacer-1/static/css/css.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-1/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-2/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-1/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-2/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1-3/static/css/style.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1-1/static/css/style.css",
+		"/C/Users/User/AppData/Local/Temp/scp48942/www/lp1.migliori.ru/index.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/card.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/buys.html",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1-1/page2Success.php",
+		"/C/Users/User/AppData/Local/Temp/scp45592/www/lp1.migliori.ru/index.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/landing-1.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/cart.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/catalog-all.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/catalog.html",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi new/index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DIa0.261/Внимание!.txt",
+		"/C/Users/User/Desktop/Projects/Vitaliy/delonghi/catalog-main.html",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1-2/static/css/style.css",
+		"/C/Users/User/Desktop/Projects/BlackSwan/video/app/sass/_media.sass",
+		"/C/Users/User/Desktop/Projects/BlackSwan/video/app/sass/main.sass",
+		"/C/Users/User/AppData/Local/Temp/scp02109/domains/zaynulin.ru/new-video/index.php",
+		"/C/Users/User/Desktop/Projects/BlackSwan/video/app/header.sass",
+		"/C/Users/User/Desktop/Projects/BlackSwan/video/app/js/common.js",
+		"/C/Users/User/Desktop/Projects/ES6/dist/script.js",
+		"/C/Users/User/Desktop/Projects/ES6/src/script.js",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-spacer/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-dominator-sprey/static/css/style.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-dominator-sprey-2/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-dominator-sprey/page1Success.php",
+		"/C/Users/User/AppData/Local/Temp/scp31016/www/lp2.migliori.ru/sendmail.php",
+		"/C/Users/User/AppData/Local/Temp/scp32631/www/lp1.migliori.ru/sendmail.php",
+		"/C/Users/User/AppData/Local/Temp/scp41682/www/lp2.migliori.ru/sendmail.php",
+		"/C/Users/User/AppData/Local/Temp/scp45524/www/lp2.migliori.ru/amocrm_api.php",
+		"/C/Users/User/AppData/Local/Temp/scp45208/www/lp2.migliori.ru/aramba_api_class.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-dominator-sprey/static/css/style.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-dominator-sprey/page1Success.php",
+		"/C/Users/User/AppData/Local/Temp/scp40322/www/lp1.migliori.ru/sendmail.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-1/static/css/style.css",
+		"/F/Resident Evil 7 by xatab/информация.txt",
+		"/C/Users/User/Desktop/Projects/ES6/package.json",
+		"/C/Users/User/AppData/Local/Temp/scp08440/www/lp2.migliori.ru/index.html",
+		"/C/Users/User/AppData/Local/Temp/scp13519/www/lp1.migliori.ru/index.html",
+		"/C/Downloads/kod_na_vsekh_stranitsakh_vashego_sayta_vnutri_tega_body (1).txt",
+		"/C/Downloads/esli_sdelki_esche_ne_sozdayutsya_avtomaticheski (1).txt",
+		"/C/Downloads/Esli_sdelki_uzhe_sozdayutsya_avtomaticheski.txt",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-dominator/static/css/style.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-2-dominator/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/spacer/page1Success.php",
+		"/C/Users/User/Desktop/Projects/lp1.migliori.ru/index.html",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/spacer/static/css/index.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/spacer/static/css/css.css",
+		"/C/Users/User/Desktop/Projects/Maks/example/spacer/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/spacer/index.html",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-4-dominator-sprey-2/page1Success.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-4-dominator-sprey-2/static/css/style.css",
+		"/C/Users/User/Desktop/Projects/Maks/lib/css/l_all.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-4-dominator-sprey-2/config.json",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-4-dominator-sprey-2/static/js/index.js",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-4-dominator-sprey-2/static/css/popup.css",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/dezintox/config.json",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-4-dominator-sprey-2/index.html",
+		"/C/Users/User/AppData/Local/Temp/scp09260/www/lp2.migliori.ru/js/script.js",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/e.dominator.gigant-dick.ru/index.html",
+		"/C/Users/User/AppData/Local/Temp/scp13972/www/lp1.migliori.ru/amocrm_api.php",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-dominator-sprey/config.json",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-dominator-sprey/static/js/index.js",
+		"/C/Users/User/Desktop/Projects/Maks/workspace/gel-3-dominator-sprey/page2Success.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"C:\\Users\\User\\Desktop\\Maks\\web\\workspace\\dezintox\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"application",
+			"block ",
+			"раскро",
+			"dia only screen and (max-width: 992px",
+			"../",
+			"dia only screen and (max-width: 920px",
+			"../",
+			"Angry Birds",
+			"data-img='9'",
+			"../",
+			"brand",
+			"data-char4='Серый'",
+			"sliders",
+			"sldiers",
+			"only screen and (max-width: 480px)",
+			"slide",
+			"../",
+			"setT",
+			"set",
+			".first ",
+			".first",
+			"first",
+			"../",
+			"action=\"index.php\"",
+			"action=\"mail.php\"",
+			"hidden",
+			"action=\"index.php\"",
+			"$(window).width(",
+			".text",
+			"data-dot='a.text",
+			"section.catalog",
+			"../",
+			"action=\"\"",
+			"8 (800) 707-73-29",
+			"../",
+			"clothes",
+			"section.slider",
+			"slider",
+			"goods",
+			"clothes",
+			"clothes ",
+			"clothes",
+			"javascript:void(0)",
+			"buttons",
+			"javascript:void(0)",
+			"buttons",
+			"href=\"\"",
+			".buttons",
+			"slider",
+			"header",
+			"../",
+			"h1",
+			"section.app",
+			"../",
+			"ed>",
+			"ed.",
+			"ed>",
+			"nav",
+			"section.application",
+			"navnav",
+			"section.application",
+			"показать",
+			"title_f",
+			"catalog",
+			"../",
+			"/>",
+			"span.h1-subtitle",
+			"span.h1-subtitle ",
+			"720",
+			"h3",
+			"mobile-filters-close",
+			".mobile-filters-close",
+			"mobile-filters-close",
+			".mobile-menu ul,.mobile-filters .mobile-filters-inner",
+			".mobile-menu ul, .mobile-filters .mobile-filters-inner",
+			"catalog-button",
+			"resize()",
+			"geo",
+			"800",
+			".paginator .static .buttons .button.ui-state-current",
+			"best",
+			".best ",
+			"best",
+			"header > ul > li",
+			"order",
+			".wrapper > aside",
+			".order",
+			".sidebar .author ul",
+			"распы",
+			"крем",
+			"гель",
+			"geo",
+			"header > ul > li",
+			"height: 4462px;",
+			"Титан Гелем",
+			"Крем",
+			"Гель",
+			"%",
+			"спр",
+			"%",
+			"спре",
+			"влажным",
+			"крем",
+			"ГЕЛЬ",
+			".block7 .title",
+			"максиса",
+			"text-d",
+			"Е",
+			"200",
+			"Максисаз",
+			"Максисаз ",
+			"order",
+			"крем",
+			"Гель",
+			"prices",
+			"HelveticaNeueCyr",
+			"санкт",
+			".v",
+			".r",
+			"uni-ta",
+			"filters",
+			".item_description",
+			"Helvetica",
+			"автоматические коф",
+			"<span class=\"stock-logo\">\n                    <img src=\"sites/all/themes/shop/images/stock-logo.png\" alt=\"\">\n                  </span>",
+			".landing-container .best-item",
+			"best",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Футболка с принтом",
+			"",
+			"data-char4='под цвет модели'",
+			"",
+			"action=\"mail.php\"",
+			"",
+			"data-text='a.text",
+			"",
+			"action=\"mail.php\"",
+			"",
+			"section.goods",
+			"",
+			"href=\"javascript:void(0)\"",
+			"",
+			"крем",
+			"XXL Power Life",
+			"крем",
+			"Helvetica",
+			"'Helvetica'",
+			"'HelveticaNeueCyr'",
+			"'Helvetica Neue'",
+			"",
+			"XXL Power Life",
+			"крем",
+			"крема",
+			"кремов",
+			"гель",
+			"геля",
+			"гелей",
+			"крема",
+			"крем",
+			"Titan Gel",
+			"XXL Power Life",
+			"крем",
+			"XXL Power Life",
+			"гель",
+			"Titan Gel",
+			"XXL Power Life",
+			"крем",
+			"гель",
+			"крем",
+			"Titan Gel",
+			"HYDROMAX",
+			"крем",
+			"XXL Power Life",
+			"",
+			"руб",
+			"{{url}}",
+			"{{file_path}}",
+			"",
+			"{{file_path}}",
+			"42540969",
+			"{{file_path}}",
+			"Dezintox",
+			"img/",
+			"",
+			"src=\"{{file_path}}",
+			"href=\"{{file_path}}",
+			"img/",
+			"img",
+			"",
+			"<img src=\"img/",
+			"",
+			"href=\"{{file_path}}",
+			"src=\"{{file_path}}",
+			"src=\"",
+			"href=\"",
+			"btn-white",
+			"mail.php",
+			"",
+			"<div class=\"video-desc\">\n\t\t\t\t\t\t\t<h3>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "html",
+							"buffer_scroll_name": "9c9e229b",
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "jsx",
+							"buffer_scroll_name": "587de875",
+							"scope_hunter.view_enable": false,
+							"spell_check": false,
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/Header.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "jsx",
+							"buffer_scroll_name": "541f5086",
+							"spell_check": false,
+							"syntax": "Packages/JSX/JSX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/Todo.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "jsx",
+							"buffer_scroll_name": "7e160250",
+							"spell_check": false,
+							"syntax": "Packages/JSX/JSX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/Checkbox.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "jsx",
+							"buffer_scroll_name": "98624d86",
+							"spell_check": false,
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/Button.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "jsx",
+							"buffer_scroll_name": "99592e67",
+							"spell_check": false,
+							"syntax": "Packages/JSX/JSX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "public/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "css",
+							"buffer_scroll_name": "f6e9b6dd",
+							"spell_check": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.727672035139,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scopehunter.results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "react.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\User\\Desktop\\Projects\\Vitaliy\\delonghi new\\sites\\all\\themes\\shop\\js\\shop.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
